@@ -8,8 +8,28 @@ cacheUrl: https://plutotin.github.io/osmosfeed/cache.json
 # `sources`: An array of RSS subscriptions. (required)
 sources:
   # `href`: A URL that returns content in RSS 1.0, RSS 2.0, or Atom format. (required for each source)
+  - href: https://thehackernews.com/feeds/posts/default
   - href: https://feeds.feedburner.com/freegroup/
-
+  - herf: http://www.kocpc.com.tw/feed
+  - herf: https://news.itsfoss.com/feed/
+  - herf: http://feeds.feedburner.com/techbang
+  - herf: http://feeds2.feedburner.com/unwirelife
+  - herf: https://9to5google.com/feed/
+  - herf: http://agirls.aotter.net/?feed=rss2
+  - herf: http://feeds.feedburner.com/cool3c-nccc
+  - herf: https://www.ithome.com.tw/rss
+  - herf: https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw
+  - herf: https://spreadprivacy.com/feed
+  - herf: https://rsshub.app/now/news
+  - herf: https://hk.news.yahoo.com/rss/hong-kong
+  - herf: https://rsshub.app/hk01/latest
+  - herf: https://www.reddit.com/r/Brawlstars.rss
+  - herf: https://www.youtube.com/feeds/videos.xml?channel_id=UCjiPEaapiHbJMoAdi_L8fNA
+  - herf: https://minecraft.net/en-us/feeds/community-content/rss
+  - herf: https://rsshub.app/epicgames/freegames
+  - herf: https://www.youtube.com/feeds/videos.xml?channel_id=UCooVYzDxdwTtGYAkcPmOgOw
+  - herf: https://www.reddit.com/r/PhoenixSC.rss
+  
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "PlutoTin RSS Feed"
 
