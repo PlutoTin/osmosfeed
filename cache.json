@@ -1,265 +1,109 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
-    },
-    {
-      "title": "9to5Google",
-      "feedUrl": "https://9to5google.com/feed/",
-      "siteUrl": "https://9to5google.com/",
+      "title": "免費資源網路社群 - 免費資源指南，每日網路資訊與科技新知",
+      "feedUrl": "https://feeds.feedburner.com/freegroup/",
+      "siteUrl": "https://free.com.tw",
       "articles": [
         {
-          "id": "https://9to5google.com/?p=637900",
-          "author": "Ben Schoon",
-          "description": "The main focus of Google’s new Pixel 9 series is on AI, with several new features taking advantage of the rapidly growing tech. However, if you unlock your bootloader, many of the Pixel 9’s new AI apps will stop working.\nmore…",
-          "link": "https://9to5google.com/2024/08/27/google-pixel-9-ai-features-bootloader-unlocked/",
-          "publishedOn": "2024-08-27T16:15:00.000Z",
-          "wordCount": 2809,
-          "title": "Google seems to disable some AI features on Pixel 9 when the bootloader is unlocked",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Pixel-Screenshots-close.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+          "id": "https://free.com.tw/?p=105009",
+          "author": "Pseric",
+          "description": "AIMusic.so 是一個免費的線上 AI 音樂作曲家，只需輸入文字描述即可快速創作各種令人驚豔的音樂！但開 […]\n這篇文章「AIMusic：免費 AI 音樂生成器，輕鬆創作專屬音樂」最早出現在免費資源網路社群，請追蹤 Google 新聞、Facebook、X (Twitter) 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。",
+          "link": "https://free.com.tw/aimusic-so/",
+          "publishedOn": "2024-08-27T02:00:42.000Z",
+          "wordCount": 2254,
+          "title": "AIMusic：免費 AI 音樂生成器，輕鬆創作專屬音樂",
+          "imageUrl": "https://cdn.free.com.tw/wp-content/uploads/2024/08/aimusic-so-1.jpg"
         },
         {
-          "id": "https://9to5google.com/?p=637927",
-          "author": "Abner Li",
-          "description": "Back in July, YouTube Music announced that it was testing an AI-generated conversational radio and the prompt-based feature is seeing wider availability. \nmore…",
-          "link": "https://9to5google.com/2024/08/27/youtube-music-ai-conversational-radio/",
-          "publishedOn": "2024-08-27T16:10:00.000Z",
-          "wordCount": 3050,
-          "title": "YouTube Music AI conversational radio sees wider testing",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/03/YouTube-Music-widget-v2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+          "id": "https://free.com.tw/?p=105049",
+          "author": "Pseric",
+          "description": "FlexClip 是一家以線上影片製作編輯器聞名的公司，收錄超過 6000+ 個範本，也提供各種豐富資源讓使用 […]\n這篇文章「FlexClip AI：免費試用強大影片編輯工具，快速提升創作效率！」最早出現在免費資源網路社群，請追蹤 Google 新聞、Facebook、X (Twitter) 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。",
+          "link": "https://free.com.tw/flexclip-ai/",
+          "publishedOn": "2024-08-26T02:00:46.000Z",
+          "wordCount": 2334,
+          "title": "FlexClip AI：免費試用強大影片編輯工具，快速提升創作效率！",
+          "imageUrl": "https://cdn.free.com.tw/wp-content/uploads/2024/08/flexclip-ai-1.jpg"
         },
         {
-          "id": "https://9to5google.com/?p=636407",
-          "author": "Damien Wilde",
-          "description": "With brand-new phones come brand-new accessories. Is getting an official Pixel 9 case going to mean pixel-perfect, and do these first-party accessories make financial sense?\nmore…",
-          "link": "https://9to5google.com/2024/08/27/pixel-9-official-cases/",
-          "publishedOn": "2024-08-27T16:00:00.000Z",
-          "wordCount": 3664,
-          "title": "Hands-on with every official Pixel 9 series case: Worth the money? [Video]",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Pixel-9-official-cases-23.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+          "id": "https://free.com.tw/?p=105062",
+          "author": "Pseric",
+          "description": "yt2k 是線上 YouTube 影片下載工具，可將影片保存為 MP3、MP4 和 WebM 等格式，類似的工 […]\n這篇文章「yt2k：免安裝輕鬆下載 YouTube 影片，支援多種格式高解析度」最早出現在免費資源網路社群，請追蹤 Google 新聞、Facebook、X (Twitter) 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。",
+          "link": "https://free.com.tw/yt2k/",
+          "publishedOn": "2024-08-25T02:00:15.000Z",
+          "wordCount": 2232,
+          "title": "yt2k：免安裝輕鬆下載 YouTube 影片，支援多種格式高解析度",
+          "imageUrl": "https://cdn.free.com.tw/wp-content/uploads/2024/08/yt2k-1.jpg"
         },
         {
-          "id": "https://9to5google.com/?p=637903",
-          "author": "Justin Kahn",
-          "description": "Today’s deals are now at the ready starting with a return of Prime Day pricing on the 2024 Google Pixel 8a handset at $449 shipped in all four colorways, and on both the 128GB and 256GB models. That deal also sits alongside a return low on the Samsung 2024 unlocked Galaxy A35 smartphone at $100 off, as well as Samsung’s brand new 180MB/s 1TB Pro Plus microSD card to expand your storage at its best price yet. You can also land a sweet deal on a 4-pack of Samsung SmartTag 2 item trackers at $60 – that’s $15 a pop – as well as a host of discounts on charging gear, the new Elgato Neo USB-C microphone, smart bulbs, and much more. \nmore…",
-          "link": "https://9to5google.com/2024/08/27/deals-pixel-8a-galaxy-1tb-microsd-smarttag-2/",
-          "publishedOn": "2024-08-27T15:59:52.000Z",
-          "wordCount": 4081,
-          "title": "Deals: Pixel 8a $450, Galaxy A35 $300, 1TB Samsung microSD new low, 4-pack Samsung SmartTag 2 $60, more",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/Pixel-8a.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+          "id": "https://free.com.tw/?p=104919",
+          "author": "Pseric",
+          "description": "ICLight Studio 提供以 AI 人工智慧驅動的圖片編輯器，主要著重在為相片重新打光、調整光線位置， […]\n這篇文章「ICLight Relight：AI 驅動的線上照片打光神器，輕鬆實現專業級照片編輯」最早出現在免費資源網路社群，請追蹤 Google 新聞、Facebook、X (Twitter) 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。",
+          "link": "https://free.com.tw/iclight-relight/",
+          "publishedOn": "2024-08-24T02:00:54.000Z",
+          "wordCount": 2213,
+          "title": "ICLight Relight：AI 驅動的線上照片打光神器，輕鬆實現專業級照片編輯",
+          "imageUrl": "https://cdn.free.com.tw/wp-content/uploads/2024/08/iclight-1.jpg"
         },
         {
-          "id": "https://9to5google.com/?p=637867",
-          "author": "Andrew Romero",
-          "description": "Samsung is still offering official cases for the Galaxy Z Flip 6. The newest additions include Flipsuit cases for the Galaxy Z Flip 6 showcasing the logo of almost every NFL team.\nmore…",
-          "link": "https://9to5google.com/2024/08/27/nfl-teams-official-galaxy-z-flip-6-case/",
-          "publishedOn": "2024-08-27T15:25:56.000Z",
-          "wordCount": 2886,
-          "title": "You can now buy almost every NFL team’s official Galaxy Z Flip 6 case",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/Galaxy-Z-Flip-6-Cover-Display-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+          "id": "https://free.com.tw/?p=104843",
+          "author": "Pseric",
+          "description": "透過先進的 AI 技術生成音樂音效已經不是什麼新鮮事，而現在已有非常多的產品可以做到，製作出來的成品效果相當驚 […]\n這篇文章「AI Music Generator：免費線上 AI 音樂生成器，輕鬆創作無版權音樂！」最早出現在免費資源網路社群，請追蹤 Google 新聞、Facebook、X (Twitter) 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。",
+          "link": "https://free.com.tw/ai-music-generator/",
+          "publishedOn": "2024-08-23T02:00:56.000Z",
+          "wordCount": 2237,
+          "title": "AI Music Generator：免費線上 AI 音樂生成器，輕鬆創作無版權音樂！",
+          "imageUrl": "https://cdn.free.com.tw/wp-content/uploads/2024/08/ai-music-generator-1.jpg"
         },
         {
-          "id": "https://9to5google.com/?p=637862",
-          "author": "Ben Schoon",
-          "description": "Tecno is one of the unexpected names in the foldable space, with its Phantom V Fold and Flip lines costing way less than the competition. Soon, the company is set to launch the Tecno Phantom V Fold 2 and Flip 2, and they look way better despite not costing as much as the competition.\nmore…",
-          "link": "https://9to5google.com/2024/08/27/tecno-phantom-v-fold-flip-2-leak/",
-          "publishedOn": "2024-08-27T15:20:00.000Z",
-          "wordCount": 2920,
-          "title": "Tecno’s Phantom V Fold 2 and Flip 2 leak with better designs, prices under ~$1,000",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/tecno-phantom-2-leak-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+          "id": "https://free.com.tw/?p=104898",
+          "author": "Pseric",
+          "description": "Logo Surf 是一個文字生成 Logo & Favicon 網站標誌的免費線上工具，也是開放原始 […]\n這篇文章「Logo Surf：免費線上文字 Logo 製作工具，輕鬆設計專業網站標誌」最早出現在免費資源網路社群，請追蹤 Google 新聞、Facebook、X (Twitter) 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。",
+          "link": "https://free.com.tw/logo-surf/",
+          "publishedOn": "2024-08-22T02:00:31.000Z",
+          "wordCount": 2241,
+          "title": "Logo Surf：免費線上文字 Logo 製作工具，輕鬆設計專業網站標誌",
+          "imageUrl": "https://cdn.free.com.tw/wp-content/uploads/2024/08/logo-surf-1.jpg"
         },
         {
-          "id": "https://9to5google.com/?p=633909",
-          "author": "Abner Li",
-          "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.\nmore…",
-          "link": "https://9to5google.com/2024/08/27/august-2024-google-system-updates/",
-          "publishedOn": "2024-08-27T14:30:00.000Z",
-          "wordCount": 3416,
-          "title": "What’s new in the August 2024 Google System Updates [U: 8/26]",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/07/google_play_services_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+          "id": "https://free.com.tw/?p=104907",
+          "author": "Pseric",
+          "description": "抖音（TikTok）有提供製作短片時使用的旁白音效，但這項功能不太好找，而且不支援將太長的內容轉為語音，如果是 […]\n這篇文章「TikTok 文字轉語音生成器：免費線上工具輕鬆製作專業級影片配音」最早出現在免費資源網路社群，請追蹤 Google 新聞、Facebook、X (Twitter) 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。",
+          "link": "https://free.com.tw/tiktokvoice/",
+          "publishedOn": "2024-08-21T02:00:46.000Z",
+          "wordCount": 2184,
+          "title": "TikTok 文字轉語音生成器：免費線上工具輕鬆製作專業級影片配音",
+          "imageUrl": "https://cdn.free.com.tw/wp-content/uploads/2024/08/tiktokvoice-1.jpg"
         },
         {
-          "id": "https://9to5google.com/?p=637819",
-          "author": "Andrew Romero",
-          "description": "OnePlus has always been one of the most forward-thinking companies in terms of charging speeds and power, and with the OnePlus 13 on the horizon, there’s no reason the company should give that up. New leaks suggest the OnePlus 13 will bring a 6,000mAh battery and fast charging.\nmore…",
-          "link": "https://9to5google.com/2024/08/27/oneplus-13-rumored-6000mah-battery/",
-          "publishedOn": "2024-08-27T14:10:21.000Z",
-          "wordCount": 2891,
-          "title": "OnePlus 13 rumored to bring a 6,000mAh battery",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/OnePlus-12-v6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+          "id": "https://free.com.tw/?p=104809",
+          "author": "Pseric",
+          "description": "TubeMP4 是一個免費 YouTube 下載工具，提供使用者將 YouTube 將影片下載為各種解析度的  […]\n這篇文章「TubeMP4：免費高畫質 YouTube 影片下載器，支援 MP3 轉檔和線上剪輯功能」最早出現在免費資源網路社群，請追蹤 Google 新聞、Facebook、X (Twitter) 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。",
+          "link": "https://free.com.tw/tubemp4/",
+          "publishedOn": "2024-08-20T02:00:29.000Z",
+          "wordCount": 2278,
+          "title": "TubeMP4：免費高畫質 YouTube 影片下載器，支援 MP3 轉檔和線上剪輯功能",
+          "imageUrl": "https://cdn.free.com.tw/wp-content/uploads/2024/08/tubemp4-1.jpg"
         },
         {
-          "id": "https://9to5google.com/?p=637812",
-          "author": "Ben Schoon",
-          "description": "Nothing makes some of the best earbuds out there, and the company appears to be working to add to its lineup with the “Ear Open” surfacing this week.\nmore…",
-          "link": "https://9to5google.com/2024/08/27/nothing-ear-open-earbuds-leak/",
-          "publishedOn": "2024-08-27T13:10:00.000Z",
-          "wordCount": 2834,
-          "title": "Nothing appears to be working on a new pair of ‘Ear Open’ earbuds",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/04/nothing-ear-black-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+          "id": "https://free.com.tw/?p=104876",
+          "author": "Pseric",
+          "description": "Gravatar 是知名的個人頭像託管服務，如果早期有經歷過 WordPress 自架部落格的時代就會對這項服 […]\n這篇文章「Gravatar 支援自訂網域名稱，連結免費 .Link 頂級域名提升品牌形象」最早出現在免費資源網路社群，請追蹤 Google 新聞、Facebook、X (Twitter) 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。",
+          "link": "https://free.com.tw/free-custom-domains-for-gravatar/",
+          "publishedOn": "2024-08-19T02:00:27.000Z",
+          "wordCount": 2283,
+          "title": "Gravatar 支援自訂網域名稱，連結免費 .Link 頂級域名提升品牌形象",
+          "imageUrl": "https://cdn.free.com.tw/wp-content/uploads/2024/08/free-custom-domains-for-gravatar-1.jpg"
         },
         {
-          "id": "https://9to5google.com/?p=637813",
-          "author": "Ben Schoon",
-          "description": "Google appears to be working on a new “Wallpaper & style” page for Pixel phones and tablets which reorganizes existing options for a streamlined UI.\nmore…",
-          "link": "https://9to5google.com/2024/08/27/google-pixel-wallpaper-android-15-redesign/",
-          "publishedOn": "2024-08-27T12:35:00.000Z",
-          "wordCount": 2832,
-          "title": "Google Pixel may soon get a revamped ‘Wallpaper & style’ page [Video]",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/07/pixel-wallpaper-and-style.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637697",
-          "author": "Abner Li",
-          "description": "With Beta 4.2 two weeks ago, Google has finished testing Android 15 and is already moving on to QPR1. However, a new report today says Android 15 will not roll out to Pixel devices until October.\nmore…",
-          "link": "https://9to5google.com/2024/08/26/android-15-pixel-update-date/",
-          "publishedOn": "2024-08-27T04:19:00.000Z",
-          "wordCount": 2867,
-          "title": "Android 15 Pixel update officially launching in October [U]",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/Android-15-Beta-4-v4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637754",
-          "author": "Abner Li",
-          "description": "Google Tasks was updated with Material You in February of 2023, and a substantial redesign today overhauls the Android app further.\nmore…",
-          "link": "https://9to5google.com/2024/08/26/google-tasks-redesign-android/",
-          "publishedOn": "2024-08-27T00:21:36.000Z",
-          "wordCount": 3072,
-          "title": "Google Tasks redesign rolls out with cards, drops bottom app bar",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-tasks-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637750",
-          "author": "Abner Li",
-          "description": "In May of 2023, Google announced that the Workspace Business Starter tier was switching to pooled storage, with shared drives set to launch next month.  \nmore…",
-          "link": "https://9to5google.com/2024/08/26/google-workspace-business-starter-shared-drives/",
-          "publishedOn": "2024-08-26T23:57:26.000Z",
-          "wordCount": 2778,
-          "title": "Shared drives rolling out to Google Workspace Business Starter next month",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/10/google_workspace_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637742",
-          "author": "Abner Li",
-          "description": "When you pull-to-refresh a page in Chrome 128, your Android phone will now subtly vibrate to acknowledge the action.\nmore…",
-          "link": "https://9to5google.com/2024/08/26/chrome-android-refresh-vibrates/",
-          "publishedOn": "2024-08-26T22:18:19.000Z",
-          "wordCount": 2979,
-          "title": "Google Chrome now vibrates when you pull-to-refresh on Android",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/google-chrome-android-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637736",
-          "author": "Abner Li",
-          "description": "Last year, Google Meet introduced an upgraded Picture-in-Picture experience for desktop Chrome that will now automatically open when you switch tabs.\nmore…",
-          "link": "https://9to5google.com/2024/08/26/google-meet-auto-pip/",
-          "publishedOn": "2024-08-26T20:06:40.000Z",
-          "wordCount": 2695,
-          "title": "Google Meet will open Picture-in-Picture when you switch tabs",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/07/google_meet_4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637723",
-          "author": "Abner Li",
-          "description": "The Pixel 9 Pro Fold officially hits store shelves on September 4, but one lucky person received theirs early and unboxed it.\nmore…",
-          "link": "https://9to5google.com/2024/08/26/pixel-9-pro-fold-unboxing/",
-          "publishedOn": "2024-08-26T19:31:52.000Z",
-          "wordCount": 2871,
-          "title": "Pixel 9 Pro Fold that arrived early gets unboxing, ships unfolded [Gallery]",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Pixel-9-Pro-Fold-unboxing-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637678",
-          "author": "Ben Schoon",
-          "description": "As Summer break comes to an end for many students across the US, Samsung has announced new discounts available for students as well as improved trade-in offers towards Galaxy Watch.\nmore…",
-          "link": "https://9to5google.com/2024/08/26/samsung-galaxy-watch-trade-in-student-discounts/",
-          "publishedOn": "2024-08-26T19:15:00.000Z",
-          "wordCount": 2802,
-          "title": "Samsung boosts Galaxy Watch trade-in values alongside discounts for students",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/galaxy-watch-7-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/2024/08/26/android-game-app-price-drops-fran-bow/",
-          "author": "9to5Toys",
-          "description": "This afternoon’s collection of the best Android game and app deals is now up for grabs with notable price drops now at the ready courtesy of Google Play. Here’s how to score $100 off your Galaxy Buds 3/Pro 3 with purchases of the Galaxy Z Flip 6 alongside notable deals on Bose’s latest world-class QuietComfort buds and headphones, as well as one of the best prices yet on the Motorola MA1 Wireless Android Auto Adapter. As for the apps, highlights include titles like Fran Bow, Leo’s Fortune, Super Onion Boy 2, Ailment, and more. Head below for today’s best price drops and freebies. \nmore…",
-          "link": "https://9to5toys.com/2024/08/26/android-game-app-price-drops-fran-bow/",
-          "publishedOn": "2024-08-26T18:38:35.000Z",
-          "wordCount": 1695,
-          "title": "Android game and app price drops: Fran Bow, Leo’s Fortune, Super Onion Boy 2, more",
-          "imageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2023/10/Fran-Bow.jpeg?resize=1200%2C628&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637688",
-          "author": "Abner Li",
-          "description": "Google Chat now integrates with IFTTT (if this, then that) to power various automations. This is available for both Google Workspace and personal accounts. \nmore…",
-          "link": "https://9to5google.com/2024/08/26/google-chat-ifttt/",
-          "publishedOn": "2024-08-26T16:50:17.000Z",
-          "wordCount": 3059,
-          "title": "Google Chat adds support for IFTTT integrations",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/google-chat-fi-v2-03.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637614",
-          "author": "Ben Schoon",
-          "description": "Through a new software option on the Pixel 9 series, you might find it easier to use Google’s smartphones while the touchscreen is wet, has a screen protector on, or has other hurdles in place that might impact the functionality.\nmore…",
-          "link": "https://9to5google.com/2024/08/26/google-pixel-9-adaptive-touch-feature/",
-          "publishedOn": "2024-08-26T16:45:00.000Z",
-          "wordCount": 2893,
-          "title": "Google Pixel 9 launches ‘Adaptive Touch,’ improves screen sensitivity while wet, etc",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/google-pixel-9-pro-xl-14.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637672",
-          "author": "Justin Kahn",
-          "description": "Your Monday deals are now ready to go down below starting off with some notable price drops on the latest Bose QuietComfort Ultra Wireless Earbuds and headphones with as much as $100 in savings – be sure to check out the new diamond colorways that were unveiled today as well. From there, we spotted one of the lowest prices yet on the Motorola MA1 Wireless Android Auto Car Adapter at $36 alongside a $100 price drop on OnePlus 12 with a FREE pair of $180 Buds Pro 2, notable offers on Galaxy Z Flip 6 and Galaxy Buds 3/Pro 3, plenty of charger and cable deals, and more. Head below for a closer look. \nmore…",
-          "link": "https://9to5google.com/2024/08/26/deals-bose-ultra-headphones-android-auto-adapte/",
-          "publishedOn": "2024-08-26T16:06:30.000Z",
-          "wordCount": 4237,
-          "title": "Deals: Bose QuietComfort headphones and buds up to $100 off, Android Auto Adapter $36, magnetic charging gear, more",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Bose-new-QuietComfort-Ultra-headphones-black-friday-deals.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637654",
-          "author": "Andrew Romero",
-          "description": "Honor announced the Magic V3 some time ago in China, breaking thickness records in the foldable space. Now, the company is announcing several new apps in partnership with Google Cloud that will bring some extra productivity powered by AI.\nmore…",
-          "link": "https://9to5google.com/2024/08/26/honor-ai-suite-magic-v3-google-cloud/",
-          "publishedOn": "2024-08-26T15:08:05.000Z",
-          "wordCount": 2914,
-          "title": "Honor is building its own AI suite on the Magic V3 with the help of Google Cloud",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/honor-magic-v3-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637639",
-          "author": "Andrew Romero",
-          "description": "Samsung’s One UI 6 is the company’s newest OS based on Wear OS 5, and it has been rolling out to older watch generations in a beta phase. The Galaxy Watch 4 is getting an update to the One UI 6 beta that allows always-on display (AOD) to run anywhere on the watch.\nmore…",
-          "link": "https://9to5google.com/2024/08/26/galaxy-watch-4-one-ui-6-beta-update-aod/",
-          "publishedOn": "2024-08-26T14:22:10.000Z",
-          "wordCount": 2836,
-          "title": "Galaxy Watch 4 gets fourth One UI 6 beta update, AOD now works everywhere",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/08/Galaxy-Watch-4-1-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637620",
-          "author": "Ben Schoon",
-          "description": "If you just purchased a new Pixel 9 Pro XL from Google and have run into strange issues while wireless charging, you’re not alone.\nmore…",
-          "link": "https://9to5google.com/2024/08/26/google-pixel-9-pro-xl-wireless-charging-issues/",
-          "publishedOn": "2024-08-26T14:05:00.000Z",
-          "wordCount": 2986,
-          "title": "Some Pixel 9 Pro XL buyers run into wireless charging issues, including on Pixel Stand",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/google-pixel-9-pro-xl-31.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://9to5google.com/?p=637616",
-          "author": "Andrew Romero",
-          "description": "A new set of images showcasing the Galaxy Tab S10 series has popped up in new leaks. The new series seems to drop the basic model and opts for two familiar sizes.\nmore…",
-          "link": "https://9to5google.com/2024/08/26/galaxy-tab-s10-leaks-show-tablets-side-by-side/",
-          "publishedOn": "2024-08-26T14:00:27.000Z",
-          "wordCount": 2927,
-          "title": "Galaxy Tab S10 Ultra and Plus leak shows more of the same",
-          "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Galaxy-Tab-S10-leak-round-2-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+          "id": "https://free.com.tw/?p=104959",
+          "author": "Pseric",
+          "description": "VideoZip.online 是一個免費線上影片工具，集合影片壓縮、轉檔和音訊提取功能，兼具免費、強大且重視 […]\n這篇文章「免費線上影片工具 VideoZip.online：輕鬆壓縮、轉檔與音訊提取」最早出現在免費資源網路社群，請追蹤 Google 新聞、Facebook、X (Twitter) 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。",
+          "link": "https://free.com.tw/videozip-online/",
+          "publishedOn": "2024-08-18T02:00:46.000Z",
+          "wordCount": 2193,
+          "title": "免費線上影片工具 VideoZip.online：輕鬆壓縮、轉檔與音訊提取",
+          "imageUrl": "https://cdn.free.com.tw/wp-content/uploads/2024/08/videozip-online-1.jpg"
         }
       ]
     }
