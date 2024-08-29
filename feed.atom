@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://plutotin.github.io/osmosfeed/index.html</id>
     <title>PlutoTin RSS Feed</title>
-    <updated>2024-08-28T00:30:50.969Z</updated>
+    <updated>2024-08-29T00:31:09.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://plutotin.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://plutotin.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html</id>
+        <link href="https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html"/>
+        <updated>2024-08-28T16:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortra has addressed a critical security flaw impacting FileCatalyst Workflow that could be abused by a remote attacker to gain administrative access.
+The vulnerability, tracked as CVE-2024-6633, carries a CVSS score of 9.8, and stems from the use of a static password to connect to a HSQL database.
+"The default credentials for the setup HSQL database (HSQLDB) for FileCatalyst Workflow are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APT-C-60 Group Exploit WPS Office Flaw to Deploy SpyGlace Backdoor]]></title>
+        <id>https://thehackernews.com/2024/08/apt-c-60-group-exploit-wps-office-flaw.html</id>
+        <link href="https://thehackernews.com/2024/08/apt-c-60-group-exploit-wps-office-flaw.html"/>
+        <updated>2024-08-28T13:48:00.000Z</updated>
+        <summary type="html"><![CDATA[A South Korea-aligned cyber espionage has been linked to the zero-day exploitation of a now-patched critical remote code execution flaw in Kingsoft WPS Office to deploy a bespoke backdoor dubbed SpyGlace.
+The activity has been attributed to a threat actor dubbed APT-C-60, according to cybersecurity firms ESET and DBAPPSecurity. The attacks have been found to infect Chinese and East Asian users]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlackByte Ransomware Exploits VMware ESXi Flaw in Latest Attack Wave]]></title>
+        <id>https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html</id>
+        <link href="https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html"/>
+        <updated>2024-08-28T10:21:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind the BlackByte ransomware group have been observed likely exploiting a recently patched security flaw impacting VMware ESXi hypervisors, while also leveraging various vulnerable drivers to disarm security protections.
+"The BlackByte ransomware group continues to leverage tactics, techniques, and procedures (TTPs) that have formed the foundation of its tradecraft since its]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Flags Critical Apache OFBiz Flaw Amid Active Exploitation Reports]]></title>
+        <id>https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html</id>
+        <link href="https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html"/>
+        <updated>2024-08-28T06:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw affecting the Apache OFBiz open-source enterprise resource planning (ERP) system to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
+The vulnerability, known as CVE-2024-38856, carries a CVSS score of 9.8, indicating critical severity.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New QR Code Phishing Campaign Exploits Microsoft Sway to Steal Credentials]]></title>
+        <id>https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html</id>
+        <link href="https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html"/>
+        <updated>2024-08-28T06:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are calling attention to a new QR code phishing (aka quishing) campaign that leverages Microsoft Sway infrastructure to host fake pages, once again highlighting the abuse of legitimate cloud offerings for malicious purposes.
+"By using legitimate cloud applications, attackers provide credibility to victims, helping them to trust the content it serves," Netskope Threat]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical WPML Plugin Flaw Exposes WordPress Sites to Remote Code Execution]]></title>
+        <id>https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html</id>
+        <link href="https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html"/>
+        <updated>2024-08-28T04:14:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw has been disclosed in the WPML WordPress multilingual plugin that could allow authenticated users to execute arbitrary code remotely under certain circumstances.
+The vulnerability, tracked as CVE-2024-6386 (CVSS score: 9.9), impacts all versions of the plugin before 4.6.13, which was released on August 20, 2024.
+Arising due to missing input validation and sanitization,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ptt Alertor 復活！透過 LINE 接收 PTT 文章通知的最佳工具]]></title>
+        <id>https://free.com.tw/?p=105071</id>
+        <link href="https://free.com.tw/ptt-alertor-sating00/"/>
+        <updated>2024-08-28T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[幾年前介紹過「Ptt Alertor 在 LINE、臉書接收批踢踢新文章通知，可追蹤主題、作者和推文」，追蹤  […]
+這篇文章「Ptt Alertor 復活！透過 LINE 接收 PTT 文章通知的最佳工具」最早出現在免費資源網路社群，請追蹤 Google 新聞、Facebook、X (Twitter) 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。]]></summary>
+        <author>
+            <name>Pseric</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[macOS Version of HZ RAT Backdoor Targets Chinese Messaging App Users]]></title>
         <id>https://thehackernews.com/2024/08/macos-version-of-hz-rat-backdoor.html</id>
