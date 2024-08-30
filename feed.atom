@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://plutotin.github.io/osmosfeed/index.html</id>
     <title>PlutoTin RSS Feed</title>
-    <updated>2024-08-29T00:31:09.184Z</updated>
+    <updated>2024-08-30T00:31:37.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://plutotin.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://plutotin.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vietnamese Human Rights Group Targeted in Multi-Year Cyberattack by APT32]]></title>
+        <id>https://thehackernews.com/2024/08/vietnamese-human-rights-group-targeted.html</id>
+        <link href="https://thehackernews.com/2024/08/vietnamese-human-rights-group-targeted.html"/>
+        <updated>2024-08-29T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A non-profit supporting Vietnamese human rights has been the target of a multi-year campaign designed to deliver a variety of malware on compromised hosts.
+Cybersecurity company Huntress attributed the activity to a threat cluster known as APT32, a Vietnamese-aligned hacking crew that's also known as APT-C-00, Canvas Cyclone (formerly Bismuth), Cobalt Kitty, and OceanLotus. The intrusion is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian Hackers Exploit Safari and Chrome Flaws in High-Profile Cyberattack]]></title>
+        <id>https://thehackernews.com/2024/08/russian-hackers-exploit-safari-and.html</id>
+        <link href="https://thehackernews.com/2024/08/russian-hackers-exploit-safari-and.html"/>
+        <updated>2024-08-29T15:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have flagged multiple in-the-wild exploit campaigns that leveraged now-patched flaws in Apple Safari and Google Chrome browsers to infect mobile users with information-stealing malware.
+"These campaigns delivered n-day exploits for which patches were available, but would still be effective against unpatched devices," Google Threat Analysis Group (TAG) researcher Clement]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Agencies Warn of Iranian Hacking Group's Ongoing Ransomware Attacks]]></title>
+        <id>https://thehackernews.com/2024/08/us-agencies-warn-of-iranian-hacking.html</id>
+        <link href="https://thehackernews.com/2024/08/us-agencies-warn-of-iranian-hacking.html"/>
+        <updated>2024-08-29T11:42:00.000Z</updated>
+        <summary type="html"><![CDATA[U.S. cybersecurity and intelligence agencies have called out an Iranian hacking group for breaching multiple organizations across the country and coordinating with affiliates to deliver ransomware.
+The activity has been linked to a threat actor dubbed Pioneer Kitten, which is also known as Fox Kitten, Lemon Sandstorm (formerly Rubidium), Parisite, and UNC757, which it described as connected to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AitM Phishing Attacks Bypass MFA and EDR—and How to Fight Back]]></title>
+        <id>https://thehackernews.com/2024/08/how-to-stop-aitm-phishing-attack.html</id>
+        <link href="https://thehackernews.com/2024/08/how-to-stop-aitm-phishing-attack.html"/>
+        <updated>2024-08-29T11:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Attackers are increasingly using new phishing toolkits (open-source, commercial, and criminal) to execute adversary-in-the-middle (AitM) attacks.
+AitM enables attackers to not just harvest credentials but steal live sessions, allowing them to bypass traditional phishing prevention controls such as MFA, EDR, and email content filtering.
+In this article, we’re going to look at what AitM phishing]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpatched AVTECH IP Camera Flaw Exploited by Hackers for Botnet Attacks]]></title>
+        <id>https://thehackernews.com/2024/08/unpatched-avtech-ip-camera-flaw.html</id>
+        <link href="https://thehackernews.com/2024/08/unpatched-avtech-ip-camera-flaw.html"/>
+        <updated>2024-08-29T11:05:00.000Z</updated>
+        <summary type="html"><![CDATA[A years-old high-severity flaw impacting AVTECH IP cameras has been weaponized by malicious actors as a zero-day to rope them into a botnet.
+CVE-2024-7029 (CVSS score: 8.7), the vulnerability in question, is a "command injection vulnerability found in the brightness function of AVTECH closed-circuit television (CCTV) cameras that allows for remote code execution (RCE)," Akamai researchers Kyle]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[French Authorities Charge Telegram CEO with Facilitating Criminal Activities on Platform]]></title>
+        <id>https://thehackernews.com/2024/08/french-authorities-charge-telegram-ceo.html</id>
+        <link href="https://thehackernews.com/2024/08/french-authorities-charge-telegram-ceo.html"/>
+        <updated>2024-08-29T04:41:00.000Z</updated>
+        <summary type="html"><![CDATA[French prosecutors on Wednesday formally charged Telegram CEO Pavel Durov with facilitating a litany of criminal activity on the popular messaging platform and placed him under formal investigation following his arrest Saturday.
+Russian-born Durov, who is also a French citizen, has been charged with being complicit in the spread of child sexual abuse material (CSAM) as well as enabling organized]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免費 AI 圖片產生器 FreeFlux：無需註冊，快速生成高品質圖片]]></title>
+        <id>https://free.com.tw/?p=104994</id>
+        <link href="https://free.com.tw/freeflux-xyz/"/>
+        <updated>2024-08-29T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FreeFlux 是一個使用 FLUX.1 AI 圖片生成模型的圖片產生器，特色是無需註冊、直接輸入要產生的圖 […]
+這篇文章「免費 AI 圖片產生器 FreeFlux：無需註冊，快速生成高品質圖片」最早出現在免費資源網路社群，請追蹤 Google 新聞、Facebook、X (Twitter) 或訂閱 RSS feed 獲取更多科技新知及免費資源相關介紹教學。]]></summary>
+        <author>
+            <name>Pseric</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability]]></title>
         <id>https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html</id>
